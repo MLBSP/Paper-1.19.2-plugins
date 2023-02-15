@@ -1,0 +1,16 @@
+config/*
+crash-reports/*
+libraries/*
+logs/*
+versions/*
+world/*
+banned-ips.json
+banned-players.json
+bukkit.yml
+commands.yml
+help.yml
+ops.json
+spigot.yml
+usercache.json
+whitelist.json
+version_history.json
