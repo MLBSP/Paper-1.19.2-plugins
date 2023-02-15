@@ -1,0 +1,4 @@
+whitelist: false
+no_whitelisted: '&a你不在服务器的白名单列表中，请联系服务器管理员！'
+whitelisted:
+- Reinassance

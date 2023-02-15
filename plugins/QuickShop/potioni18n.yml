@@ -1,0 +1,36 @@
+potioni18n:
+  comment: This is quickshop potion effect i18n file, you can add plugin potion effect
+    you saw in-game as key and give correct value to it or change value there.
+  SPEED: 速度
+  SLOW: 缓慢
+  FAST_DIGGING: 急迫
+  SLOW_DIGGING: 挖掘疲劳
+  INCREASE_DAMAGE: 力量
+  HEAL: 瞬间治疗
+  HARM: 瞬间伤害
+  JUMP: 跳跃提升
+  CONFUSION: 反胃
+  REGENERATION: 生命恢复
+  DAMAGE_RESISTANCE: 抗性提升
+  FIRE_RESISTANCE: 防火
+  WATER_BREATHING: 水下呼吸
+  INVISIBILITY: 隐身
+  BLINDNESS: 失明
+  NIGHT_VISION: 夜视
+  HUNGER: 饥饿
+  WEAKNESS: 虚弱
+  POISON: 中毒
+  WITHER: 凋零
+  HEALTH_BOOST: 生命提升
+  ABSORPTION: 伤害吸收
+  SATURATION: 饱和
+  GLOWING: 发光
+  LEVITATION: 飘浮
+  LUCK: 幸运
+  UNLUCK: 霉运
+  SLOW_FALLING: 缓降
+  CONDUIT_POWER: 潮涌能量
+  DOLPHINS_GRACE: 海豚的恩惠
+  BAD_OMEN: 不祥之兆
+  HERO_OF_THE_VILLAGE: 村庄英雄
+  DARKNESS: 黑暗
